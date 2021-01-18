@@ -1,1 +1,3 @@
-# Basic-Banking-System-The-Sparks-Foundation
+# Basic Banking System
+Graduate Rotational Internship Program
+The Sparks Foundation
