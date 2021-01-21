@@ -1,0 +1,109 @@
+* {
+  box-sizing: content-box;
+  font-family: "Raleway", sans-serif;
+  background-image: url("../src/img1.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  -webkit-background-clip: text;
+  width: 100%;
+}
+
+.Navigation {
+  text-align: center;
+  margin: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  font-size: large;
+  border: none;
+}
+
+nav a:hover {
+  color: red;
+}
+
+.started h1 {
+  color: royalblue;
+  text-align: center;
+}
+
+.started h2 {
+  color: white;
+  text-align: center;
+}
+
+.form{
+    background-color: white;
+}
+
+.User{
+    font-family: "Raleway", sans-serif;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+table{
+    table-layout: fixed;    
+}
+
+td,th{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-collapse: collapse;
+}
+
+th{
+    color:hotpink;
+}
+
+.Operation{
+    text-decoration: none;
+    color:deepskyblue ;
+    padding: 20px;
+    font-size: large;
+    border: none;
+}
+
+.Operation:hover{
+    color: red;
+}
+
+select{
+    padding: 15px;
+    color: yellow;
+    font-weight: 600;
+    background-color:lightskyblue;
+    margin: 20px;
+}
+
+input[type="number"]{
+    border: whitesmoke;
+    padding: 15px;
+    color: yellow;
+    font-weight: 600;
+    margin: 20px;
+}
+
+button{
+    margin: 5px;
+    padding: 15px;
+}
+
+h3{
+    color: yellow;
+}
+
+h3:hover{
+    color:greenyellow;
+}
+
+h4{
+    color: white;
+    padding: 15px;
+    margin: 20px;
+}
